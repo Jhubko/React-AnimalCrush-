@@ -1,0 +1,35 @@
+
+.app{
+  display: flex;
+  margin: auto;
+  width: 60%;
+  border: 3px solid green;
+  padding: 30px;
+}
+
+.game{
+  margin:auto;
+  width: 560px;
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.game img{
+  width: 70px;
+  height: 70px;
+}
+.scoreboard{
+  border: 3px solid green;
+  margin: auto;
+  padding: 30px;
+  text-align: center;
+
+}
+.scoreboard button{
+  margin: auto;
+  height: 50px;
+  width: 250px;
+  text-align: center;
+}
